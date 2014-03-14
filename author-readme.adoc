@@ -5,6 +5,7 @@ Values Needed:
 * author name - {template_author_name}
 * author email - {template_author_email}
 * repository name - {template_repository_name}
+* repository description - {template_repository_desc}
 * repository url - {template_repository_url}
 * edition month - {template_edition_month}
 * draft deadline - {template_draft_deadline}
