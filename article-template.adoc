@@ -1,4 +1,4 @@
-= Article Title: Optional Article Subtitle
+= Article Title: Optional Subtitle
 Author Name <author.name@example.com>
 :slug: slugTitle
 ifndef::env-editions[]
