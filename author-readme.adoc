@@ -1,0 +1,49 @@
+= Author Welcome Letter
+
+Values Needed:
+
+* author name - {template-author-name}
+* author email - {template-author-email}
+* repository name - {template-repository-name}
+* repository url - {template-repository-url}
+* edition month - {template-edition-month}
+* draft deadline - {template-draft-deadline}
+* editor name - {template-editor-name}
+* editor email - {template-editor-email}
+* article title - {template-article-title}
+* style guide url - {template-style-guide-url}
+* model article url - {template-model-article-url}
+* resource url - {template-resource-url}
+
+Welcome text
+
+== Key Dates
+
+> Due date for drafts (meaning you've pushed to your GitHub repo) will be the 15th of the previous month.
+
+First draft deadline
+Edit start
+Publication date
+
+== Edit Process
+
+What to expect and how to respond
+
+== Article Repository
+
+What documents and assets should be put where
+
+=== Article Template
+
+What it includes that shouldn't be messed with
+
+=== Style Guide
+
+Why you should review it
+What you'll find in it
+How to preview your article
+Additional syntax help
+
+== Help
+
+Final words and thoughts
