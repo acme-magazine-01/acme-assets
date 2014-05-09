@@ -4,8 +4,6 @@
 :slug: slugTitle
 :description: WRITE ME!
 //:keywords: TODO
-:codedir: code
-:imagesdir: images
 ifndef::codedir[:codedir: code]
 ifndef::imagesdir[:imagesdir: images]
 :hide-uri-scheme:
@@ -17,7 +15,7 @@ Abstract paragraph(s) goes here.
 
 == First Section Title
 
-.Optional title of source code block
+.Optional title for source code
 [source,ruby]
 ----
 puts 'Hello, World!'
@@ -26,16 +24,9 @@ puts 'Hello, World!'
 //include::{codedir}/filename.extension[]
 //----
 
-//.Title of image or figure
+//.Mandatory title of image or figure
 //image::filename.extension[]
 
+== About the Author
+
 include::bio.adoc[]
-
-////
-This comment block contains links to writing resources.
-You can delete this block at any time.
-
-* Review the Author Guide for article style conventions and AsciiDoc syntax usage.
-* The model article shows the common syntax in use.
-* Finally, you can checkout the Asciidoctor Quick Reference or User Manual for additional simple and complex syntax examples.
-////
