@@ -1,5 +1,5 @@
 = Article Title: Optional Subtitle
-{template_author_name} <{template_author_email}>
+{template-author-name} <{template-author-email}>
 :slug: slugTitle
 ifndef::env-editions[]
 :codedir: code

@@ -2,19 +2,19 @@
 
 Values Needed:
 
-* author name - {template_author_name}
-* author email - {template_author_email}
-* repository name - {template_repository_name}
-* repository description - {template_repository_desc}
-* repository url - {template_repository_url}
-* edition month - {template_edition_month}
-* draft deadline - {template_draft_deadline}
-* editor name - {template_editor_name}
-* editor email - {template_editor_email}
-* article title - {template_article_title}
-* author guide url - {template_author_guide_url}
-* model article url - {template_model_article_url}
-* resource url - {template_resource_url}
+* author name - {template-author-name}
+* author email - {template-author-email}
+* repository name - {template-repository-name}
+* repository description - {template-repository-desc}
+* repository url - {template-repository-url}
+* edition month - {template-edition-month}
+* draft deadline - {template-draft-deadline}
+* editor name - {template-editor-name}
+* editor email - {template-editor-email}
+* article title - {template-article-title}
+* author guide url - {template-author-guide-url}
+* model article url - {template-model-article-url}
+* resource url - {template-resource-url}
 
 Welcome text
 
