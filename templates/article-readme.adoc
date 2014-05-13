@@ -4,6 +4,7 @@ Values Needed:
 
 * author name - {template-author-name}
 * author email - {template-author-email}
+* author username - {template-author-username}
 * repository name - {template-repository-name}
 * repository description - {template-repository-desc}
 * repository url - {template-repository-url}
